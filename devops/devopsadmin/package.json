@@ -21,7 +21,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.2.0",
     "jsonwebtoken": "^8.3.0",
     "license-checker": "^20.2.0",
