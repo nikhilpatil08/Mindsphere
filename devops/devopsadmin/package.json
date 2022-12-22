@@ -23,7 +23,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "express-http-proxy": "^1.2.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "license-checker": "^20.2.0",
     "lodash.includes": "^4.3.0",
     "superagent": "^3.8.3"
